@@ -1,7 +1,7 @@
 <?php
 $configDatabase = [
     'dbname'  => 'nombd',
-    'user'    => 'utilisateur_aaa',
+    'user'    => 'utilisateur_kiki',
     'pwd'     => 'votre@mot@depasse',
     'host'    => 'localhost',
     'port'    => '3307',
